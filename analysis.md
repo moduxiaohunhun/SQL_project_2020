@@ -1,7 +1,7 @@
 ## 重难点整理：
 ### 先进先出法:
 ```
-	https://blog.csdn.net/luckyzhoustar/article/details/87905356
+	(https://blog.csdn.net/luckyzhoustar/article/details/87905356)
 ```
 ### 领料:
 * 领料单是材料领用和发出的原始凭证。领料单是一次有效的领料凭证。每领用一次材料，应填制领料单。领料单位根据生产用料计划，
